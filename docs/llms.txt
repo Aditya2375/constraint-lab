@@ -1,0 +1,2 @@
+# Constraint Lab
+Custom C++ circle engine and Jacobian sequential impulse solver, WebAssembly demo. Educational, not production physics.
