@@ -2,6 +2,8 @@
 
 A small C++ 2D circle-physics engine and a no-install WebAssembly playground. Semi-implicit Euler at 120 Hz; Jacobian distance constraints, unilateral circle/wall contacts and Coulomb friction solved by sequential impulses.
 
+Live: https://aditya2375.github.io/constraint-lab/
+
 ## Run the checks
 
 ```sh
